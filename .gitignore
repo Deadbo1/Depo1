@@ -3,3 +3,5 @@ target
 out
 node_modules
 build
+*.iml
+package-lock.json
